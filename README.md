@@ -8,16 +8,14 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Backend-focused developer with hands-on experience in:
-  - ASP.NET Core Web API & MVC
-  - MAUI Blazor Hybrid applications
-  - Windows Services
-  - Clean architecture and SOLID principles
-
-- 💻 Comfortable with frontend basics, including JavaScript and jQuery  
-- 🤖 I build connected IoT systems using ESP32, Arduino, and MQTT  
-- 🚀 Experienced in deploying .NET apps to IIS (local/remote) with MSSQL configuration  
-- 🧠 I enjoy learning new technologies and solving real-world problems  
+- 💼 Backend developer with practical experience building APIs and web apps using:
+  - ASP.NET Core Web API & MVC  
+  - MAUI Blazor Hybrid applications  
+  - Windows Services  
+- 💻 Comfortable with frontend basics including JavaScript and jQuery  
+- 🤖 Experienced in developing IoT solutions using ESP32, Arduino, and MQTT  
+- 🚀 Skilled in deploying .NET applications to IIS (local/remote) with MSSQL  
+- 🧠 Passionate about learning new technologies and solving real-world problems  
 - 📍 Based in Baku, Azerbaijan
 
 ---
@@ -38,25 +36,19 @@
 
 ### 🧠 Other Technologies I've Worked With
 
-- 📡 Messaging & Realtime:
-  - MQTT, RabbitMQ, SignalR
-- 🌐 Frontend basics:
-  - JavaScript, jQuery
-- 🔐 Authentication:
-  - JWT, Refresh Token
-- 🛢️ Databases:
-  - MSSQL, MongoDB, Firebase
-- ⚙️ System & Deployment:
-  - Windows Services, IIS Deployment (Local/Remote), Git, GitHub
-
-*Even if I haven't used some of these recently, I know their core principles and can quickly adapt when needed.*
+- 📡 Messaging & Realtime: MQTT, RabbitMQ, SignalR  
+- 🌐 Frontend basics: JavaScript, jQuery  
+- 🔐 Authentication: JWT, Refresh Token  
+- 🛢️ Databases: MSSQL, MongoDB, Firebase  
+- ⚙️ System & Deployment: Windows Services, IIS Deployment (Local/Remote), Git, GitHub
 
 ---
 
 ### 📫 Contact
 
 - 📧 Gmail: **abbasovnadir.dev@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nadirabbasov/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadirabbasov/)  
+- 🔗 [GitHub Profile](https://github.com/abbasovnadir)
 
 ---
 
